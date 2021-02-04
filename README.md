@@ -1,7 +1,12 @@
 
+Nombre: Santiago Duque
+Codigo: 202021020
+Correo: s.duque5@uniandes.edu.co
+
 Nombre: Nicolas Guerrero
 Codigo: 201731839
 Correo: nd.guerrero@uniandes.edu.co
+
 
 #ISIS1225 - Estructura de un proyecto
 
